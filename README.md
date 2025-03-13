@@ -17,24 +17,24 @@ Clone this repository:
 git clone https://github.com/Praveen-Raj-1802/Corn-Hyperspectral-Vomitoxin-Prediction.git
 cd Corn-Hyperspectral-Vomitoxin-Prediction
 
-**## Install dependencies:**
+## Install dependencies
 pip install -r requirements.txt
 
-**## Running the Application**
+## Running the Application
 streamlit run app.py
 
-**## Model Performance:**
+**Model Performance**
 The Random Forest model achieved the best results with:
 MAE: 2106.86
 RMSE: 5099.63
 R²: 0.91
 
-**## Future Improvements**
+**Future Improvements**
 1. Hyperparameter tuning for better model performance.
 2. Ensemble models for improved accuracy.
 3. Feature extraction enhancements before PCA transformation.
 
-## Streamlit Web App
+**Streamlit Web App**
 
 Below is a preview of the web application:
 
