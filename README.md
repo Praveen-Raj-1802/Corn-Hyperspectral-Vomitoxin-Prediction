@@ -43,9 +43,9 @@ R²: 0.91
 
 Below is a preview of the web application:
 
-![Streamlit App Screenshot](images/streamlit_app1.png)
+![Streamlit App Screenshot](images/streamlit_app1.PNG)
 
-![Streamlit App Screenshot](images/streamlit_app2.png)
+![Streamlit App Screenshot](images/streamlit_app2.PNG)
 
 
 
