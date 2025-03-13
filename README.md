@@ -9,6 +9,7 @@ The dataset is preprocessed, and different machine learning models, including Ra
 📜 Corn-Hyperspectral-Vomitoxin-Prediction.ipynb # Jupyter Notebook for model training & evaluation │-- 
 📜 app.py # Streamlit web application for prediction │-- 📜 pca_transformer.pkl # Saved PCA transformer model │-- 
 📜 random_forest_model.pkl # Trained Random Forest model │-- 📜 scaler.pkl # Standard scaler for feature scaling |-- 
+📜 requirements.txt # Depndencies to be installed │-- 📜 Hyperspectral Vomitoxin Prediction: Model Evaluation Report.pdf #Short Report |-- 
 📜 images/ # Folder for screenshots |-- 📜 README.md # Project documentation 
 
 ## Installation
