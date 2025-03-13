@@ -16,14 +16,17 @@ Clone this repository:
 ```bash
 git clone https://github.com/Praveen-Raj-1802/Corn-Hyperspectral-Vomitoxin-Prediction.git
 cd Corn-Hyperspectral-Vomitoxin-Prediction
+```
 
 ## Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ## Running the Application
 ```bash
 streamlit run app.py
+```
 
 ## Model Performance
 The Random Forest model achieved the best results with:
